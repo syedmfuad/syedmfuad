@@ -6,9 +6,9 @@ My research develops programmable computational models to tackle challenges that
 
 As an applied microeconomist, my research strengthens the data-policy pathway by using applied econometric and machine learning methods, first by collecting unique, high-resolution data, and then by applying advanced techniques that require these high quality, high-resolution data. My work so far has explored areas of spillover effect of conflict (*[Food Policy'23](https://www.sciencedirect.com/science/article/pii/S0306919223000155?via%3Dihub)*), causal  effects of conflict (*[Agriculture & Food Security'23](https://agricultureandfoodsecurity.biomedcentral.com/articles/10.1186/s40066-023-00447-z)*), social networks and small-world network outcomes, property taxation discrimination, housing submarkets, socio-economic and locational determinants of food stores using ML methods and causal inference using ML. To address these issues, I have employed research methods ranging from regular econometric and optimization modeling to machine learning, bayesian simulation, network modeling, and geospatial analysis. 
 
-Publications, current projects, including working papers, can be found [here](https://www.syedmfuad.net/research). A copy of my CV can be found [here](https://www.syedmfuad.net/FuadSyed_CV_04152023.pdf). 
+<!--Publications, current projects, including working papers, can be found [here](https://www.syedmfuad.net/research). A copy of my CV can be found [here](https://www.syedmfuad.net/FuadSyed_CV_04152023.pdf). 
 
-I have [teaching](https://www.syedmfuad.net/teaching/) experience in statistics and have TA-ed in Ph.D. quantitative methodology in natural resource economics and undergraduate finance courses. 
+I have [teaching](https://www.syedmfuad.net/teaching/) experience in statistics and have TA-ed in Ph.D. quantitative methodology in natural resource economics and undergraduate finance courses. -->
 
 
 <!--
